@@ -1,6 +1,6 @@
 # Slayer Wiki
 
-This plugin will add a Wiki menu option to slayer equipment.
+This plugin add a Wiki menu option to slayer equipment.
 
 # What it Does
 
